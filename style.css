@@ -1,0 +1,33 @@
+body {
+	background-color: lightblue;
+}
+
+h1 {
+	color: navy;
+	margin-left:200px;
+}
+
+h2 {
+	color: orange;
+	margin-left:180px;
+}
+
+h3 {
+	color: #FFEEAA;
+	margin-left:160px;
+}
+
+h4 {
+	color: #AAEEFF;
+	margin-left:140px;
+}
+
+h5 {
+	color: #747474;
+	margin-left:120px;
+}
+
+h6 {
+	color: #696969;
+	margin-left:100px;
+}
